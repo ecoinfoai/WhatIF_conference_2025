@@ -1,0 +1,1 @@
+-e "\n## Conference Poster\n<div align='center'><img src='poster.jpg' width='600'></div>" 
